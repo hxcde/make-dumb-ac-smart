@@ -21,4 +21,4 @@ To control your air conditioner and get feedback you need a univeral infrared re
 ### Pictures:
 ![smart_ac](https://user-images.githubusercontent.com/30338980/182379836-adff2fdc-9d22-4c71-b47b-2cfce0b6c779.png) <img src="https://user-images.githubusercontent.com/30338980/182390258-8fe0e627-c0f9-4b88-81ae-d4de0498711e.jpeg" width="192" />
 
-This card config can be found [here](https://github.com/hxcde/myhassconfigs/blob/main/makethingssmart/ac/ac_dashboard_card).
+This card config can be found [here](https://github.com/hxcde/make-dumb-ac-smart/blob/main/ac_dashboard_card).
